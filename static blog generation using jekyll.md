@@ -1,19 +1,31 @@
+---
+layout: post
+title:  "Static Personal Blog Generation using Jekyll and Github Pages"
+date:   2018-02-10 15:32:43 +0530
+categories: jekyll
+read_time: true
+---
+
 # Static Personal Blog Generation using Jekyll
 
 
-**Contents**
+**Table Of Contents**
 
 - Introduction
+
 - Setting things up
 	- Installing Ruby
     - Working with RubyGem 
+    
 - Getting Started with Jekyll
 	- Project/directory structure
 	- Configurations
 	- Customizability and themes
+    
 - Using Jekyll Themes
 	- Choosing a theme
 	- Methods of integrating and using themes
+    
 - Features to consider for blog
 	- Sitemap
     - Comments
@@ -22,11 +34,15 @@
     - Tags
     - Read time
     - JSON resume
- - Demo (using basically basic theme from minimal-mistakes author Kevin Rose)
- 
+    
+ - Demo
+ 	- Using basically basic theme from minimal-mistakes author Michael Rose
+    
     
  
 ### Introduction
+
+
 
  - What is jekyll ?
  
