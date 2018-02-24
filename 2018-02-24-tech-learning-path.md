@@ -1,6 +1,6 @@
-## Learning Plan
+# Learning Plan
 
-Skills
+## Skills
 
 - programming languages
 	- `Python`
@@ -19,6 +19,7 @@ Skills
         - `MuleSoft`
         
     - cloud technologies / devops
+   
         - `Vagrant`
         - `Ansible`
         - `Git`
@@ -34,3 +35,29 @@ Skills
     - `MongoDb`
     
  - framework and libraries
+ 
+ 
+## Project Ideas
+
+ - Personal Blog using Jekyll and Github Pages
+ 
+ - Directory Structure Validator
+ 
+ - AS400 Connector
+ 
+ 
+ 
+## Schedule
+
+W1
+	D1
+    D2
+    ..
+    D7
+W2
+	D1
+    D2
+
+links:
+
+[py]:python
